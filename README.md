@@ -1,2 +1,5 @@
 # Helllo-world
-Just another repository 
+
+Hi programmers out there !
+
+I'm Benson Mohiru An actuarial undergrad and python is my bae
